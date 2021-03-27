@@ -45,3 +45,4 @@ https://conda.io/docs/using/envs.html#remove-an-environment
 
 ### Tips
 - Some windows users have reported the driving video as playable only in Jupyter Notebook operating in Chrome browser, and not in media player or Jupyter Notebook operating in other browsers.  In contrast the post-segmentation video appears to be operating across players and browsers.
+- Excercise 4 the model links are not valid and this needs to be updated. The course creator hasnt updated the link yet
